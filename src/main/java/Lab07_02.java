@@ -25,7 +25,7 @@ public class Lab07_02 {
                     (dice2.getNumber() == dice3.getNumber ()))
                 break;
         }
-        System.out.println("3개 주사위는 모두 "+dice1.getNumber() + "입니다.");
+        System.out.println("3개의 주사위는 모두 "+dice1.getNumber() + "입니다.");
                 System.out.println("같은 숫자가 나올 때까지 " + count + "번 던졌습니다.");
     }
 }
