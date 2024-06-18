@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Code12_09 {
-    public static void main(String args){
+    public static void main(String[] args){
         JFrame frame = new JFrame();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("FlowLayout 연습");
